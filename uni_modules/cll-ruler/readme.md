@@ -1,0 +1,3 @@
+# cll-ruler
+# vue3+ts 版本，适合当前编码规范
+ ## 纯uniapp  swiper 轮播写法，理论上符合任何平台，作者本人主要用在微信小程序和web 端
